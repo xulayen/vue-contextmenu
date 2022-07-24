@@ -1,6 +1,6 @@
 {
-    "name": "vue-contextmenu",
-    "version": "1.0.0",
+    "name": "h-vue-contextmenu",
+    "version": "0.0.2",
     "description": "Vue contextmenu",
     "main": "index.js",
     "directories": {

@@ -1,5 +1,5 @@
 # 原作者
-![GitHub-Laziji](https://github.com/GitHub-Laziji/menujs)
+[GitHub-Laziji](https://github.com/GitHub-Laziji/menujs)
 
 # 为什么升级
 1. 修复vue2.7及以上版本不兼容问题
@@ -12,16 +12,16 @@ Vue 原生实现右键菜单组件, 零依赖
 
 ## npm 安装
 ```
-npm install vue-contextmenu
+npm install h-vue-contextmenu
 ```
 或
 ```
-yarn add vue-contextmenu
+yarn add h-vue-contextmenu
 ```
 
 ## CDN
 ```html
-<script src="https://unpkg.com/vue-contextmenu/dist/contextmenu.umd.js">
+<script src="https://unpkg.com/h-vue-contextmenu/dist/contextmenu.umd.js">
 ```
 
 
@@ -29,7 +29,7 @@ yarn add vue-contextmenu
 CDN引入则不需要 `Vue.use(Contextmenu)`
 > 测试中使用的是`element-ui`图标
 ```js
-import Contextmenu from "vue-contextmenu"
+import Contextmenu from "h-vue-contextmenu"
 Vue.use(Contextmenu);
 
 
