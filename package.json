@@ -1,0 +1,32 @@
+{
+    "name": "vue-contextmenu",
+    "version": "1.0.0",
+    "description": "Vue contextmenu",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "build": "vue-cli-service build --target lib --name contextmenu index.js",
+        "test": "vue-cli-service serve ./test/main.js "
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xulayen/vue-contextmenu.git"
+    },
+    "keywords": [
+        "Vue",
+        "Contextmenu",
+        "右键菜单",
+        "原作者：GitHub-Laziji"
+    ],
+    "author": "xulayen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xulayen/vue-contextmenu/issues"
+    },
+    "homepage": "https://github.com/xulayen/vue-contextmenu#readme",
+    "devDependencies": {
+        "vue": "^2.7.2"
+    }
+}
